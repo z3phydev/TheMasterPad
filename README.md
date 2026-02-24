@@ -25,6 +25,10 @@ I made this project because to my knowledge it hasn't been made. Even though it 
 
 <img width="700" height="700" alt="Screenshot 2026-02-24 191859" src="https://github.com/user-attachments/assets/0f612aa4-415f-43d0-aeb1-29d5dcd22fff" />
 
+## Schematic
+
+![image (7)](https://github.com/user-attachments/assets/60b537a7-fc7e-48d3-8906-f5970ee66af4)
+
 ## BOM
 
 to be added

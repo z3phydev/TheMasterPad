@@ -3,9 +3,10 @@
 Well it is USB Hub that has 5 USB A ports and a USB C port... **But** it has 8 MX switches which are Programable Buttons aswell as a Rotary Encoder all of which are powered by a Pi Pico
 ## How to use
 1) Assemble
-2) Flash CircutPython to the Pico (or QMK, if you do skip step 3 and if you are flashing QMK you know what you are doing anyway)
-3) Upload the code (which you can edit to your liking)
-4) Enjoy
+2) Flash CircutPython to the Pico (or QMK, if you do skip step 3 and 4, and if you are flashing QMK you know what you are doing anyway)
+3) Download the adafruit hid lib and put it into the lib folder
+4) Upload the code (which you can edit to your liking)
+5) Enjoy
 ## Why did I make it?
 I made this project because to my knowledge it hasn't been made. Even though it hasn't I still think its a good combo. It is also an intrusive thought after looking at keyboards.
 ## Repo Guide

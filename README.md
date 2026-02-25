@@ -12,9 +12,8 @@ I made this project because to my knowledge it hasn't been made. Even though it 
 ## Repo Guide
 - In the Folder 3D you will find the step and wrl (Kicad 3D file) files, the step is in a zip cause github said its to big and the keycaps wouldn't export so thats in ther aswell :)
 - In the Kicad Folder you will find the PCB and Schematic files awell as a sub-folder containing custom footprints
-- Code... Self explanatory
-- JLCPCB_ASSEMBLY_BOM.csv is the file you'd upload to JLC assembly
-- TheMasterPad-pos.csv is the Pick and Place file used for JLC assembly
+- In the Firmware folder you'll find the code
+- In the Production Folder you will find 3 files needed for JLC, gerbers, A BOM and Pick and Place file for assembly
 - BOM.csv is the whole project cost basically. It also contains all the parts for building
 
 ## 3D Model

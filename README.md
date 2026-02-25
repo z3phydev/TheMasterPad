@@ -11,7 +11,7 @@ Well it is USB Hub that has 5 USB A ports and a USB C port... **But** it has 8 M
 I made this project because to my knowledge it hasn't been made. Even though it hasn't I still think its a good combo. It is also an intrusive thought after looking at keyboards.
 ## Repo Guide
 - In the Folder 3D you will find the step and wrl (Kicad 3D file) files, the step is in a zip cause github said its to big and the keycaps wouldn't export so thats in ther aswell :)
-- In the Kicad Folder you will find the PCB and Schematic files
+- In the Kicad Folder you will find the PCB and Schematic files awell as a sub-folder containing custom footprints
 - Code... Self explanatory
 - JLCPCB_ASSEMBLY_BOM.csv is the file you'd upload to JLC assembly
 - TheMasterPad-pos.csv is the Pick and Place file used for JLC assembly

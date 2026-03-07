@@ -1,6 +1,7 @@
 # TheMasterPad
 ## What is this thing?
-Well it is USB Hub that has 5 USB A ports and a USB C port... **But** it has 8 MX switches which are Programable Buttons aswell as a Rotary Encoder all of which are powered by a Pi Pico
+Well it is USB Hub that has 5 USB A ports and a USB C port... **But** it has 8 MX switches which are Programable Buttons aswell as a Rotary Encoder all of which are powered by a Seeed XIAO RP2040
+
 ## How to use
 1) Assemble
 2) Flash CircutPython to the Pico (or QMK, if you do skip step 3 and 4, and if you are flashing QMK you know what you are doing anyway)

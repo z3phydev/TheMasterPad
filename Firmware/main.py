@@ -11,15 +11,15 @@ from adafruit_hid.consumer_control_code import ConsumerControlCode
 
 keyboard = Keyboard(usb_hid.devices)
 consumer = ConsumerControl(usb_hid.devices)
-encoder = rotaryio.IncrementalEncoder(board.GP0, board.GP2)
+encoder = rotaryio.IncrementalEncoder(board.GP26, board.GP28)
 last_position = encoder.position
-encoder_button = digitalio.DigitalInOut(board.GP1)
+encoder_button = digitalio.DigitalInOut(board.GP27)
 encoder_button.direction = digitalio.Direction.INPUT
 encoder_button.pull = digitalio.Pull.UP
 
 macro_pins = [
-    board.GP3, board.GP4, board.GP5, board.GP6,
-    board.GP7, board.GP8, board.GP9, board.GP10
+    board.GP0, board.GP1, board.GP2, board.GP3
+    board.GP4, board.GP6, board.GP7, board.GP29
 ]
 
 buttons = []
@@ -51,7 +51,7 @@ While True:
 
     for i, button in enumerate(buttons):
         if not button.value and last_button_states[i]:
-            # Example macros (edit these)
+            # Macros
             if i == 0:
                 keyboard.send(Keycode.CONTROL, Keycode.C)   # Copy
             elif i == 1:

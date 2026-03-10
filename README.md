@@ -4,7 +4,7 @@ Well it is USB Hub that has 5 USB A ports and a USB C port... **But** it has 8 M
 
 ## How to use
 1) Assemble
-2) Flash CircutPython to the Pico (or QMK, if you do skip step 3 and 4, and if you are flashing QMK you know what you are doing anyway)
+2) Flash CircutPython to the XIAO (or QMK, if you do skip step 3 and 4, and if you are flashing QMK you know what you are doing anyway)
 3) Download the adafruit hid lib and put it into the lib folder
 4) Upload the code (which you can edit to your liking)
 5) Enjoy
@@ -19,17 +19,15 @@ I made this project because to my knowledge it hasn't been made. Even though it 
 
 ## 3D Model
 
-<img width="1600" height="960" alt="TheMasterPadISO" src="https://github.com/user-attachments/assets/5ee1e653-0565-4fff-b36d-298c48c02341" />
 
-<img width="1080" height="1080" alt="TheMasterPadPLAN" src="https://github.com/user-attachments/assets/211fa44a-bcff-4204-954c-4079781cec95" />
 
 ## PCB
 
-<img width="700" height="700" alt="Screenshot 2026-02-24 191859" src="https://github.com/user-attachments/assets/0f612aa4-415f-43d0-aeb1-29d5dcd22fff" />
+<img width="598" height="635" alt="image" src="https://github.com/user-attachments/assets/cc370f95-1319-4270-a6d4-c763cd933411" />
 
 ## Schematic
 
-![image (7)](https://github.com/user-attachments/assets/60b537a7-fc7e-48d3-8906-f5970ee66af4)
+<img width="4960" height="3507" alt="image" src="https://github.com/user-attachments/assets/7e4e99f0-ed35-4bf2-8211-25fb0a2f7006" />
 
 ## BOM
 

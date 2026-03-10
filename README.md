@@ -19,6 +19,9 @@ I made this project because to my knowledge it hasn't been made. Even though it 
 
 ## 3D Model
 
+<img width="700" height="741" alt="TheMasterPadPLAN" src="https://github.com/user-attachments/assets/4e2be2f2-fd1c-4557-81ad-2a4a8e6136ba" />
+
+<img width="1920" height="1080" alt="TheMasterPadISO" src="https://github.com/user-attachments/assets/c00f9308-5b22-45e4-bafa-da78f2e15a55" />
 
 
 ## PCB

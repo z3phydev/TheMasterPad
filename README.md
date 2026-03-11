@@ -19,31 +19,17 @@ I made this project because to my knowledge it hasn't been made. Even though it 
 
 ## 3D Model
 
-<img width="700" height="741" alt="TheMasterPadPLAN" src="https://github.com/user-attachments/assets/4e2be2f2-fd1c-4557-81ad-2a4a8e6136ba" />
-
-<img width="1920" height="1080" alt="TheMasterPadISO" src="https://github.com/user-attachments/assets/c00f9308-5b22-45e4-bafa-da78f2e15a55" />
 
 
 ## PCB
 
-<img width="598" height="635" alt="image" src="https://github.com/user-attachments/assets/cc370f95-1319-4270-a6d4-c763cd933411" />
+<img width="687" height="677" alt="image" src="https://github.com/user-attachments/assets/ae576da9-ff3e-46e5-9e08-7ea6a3c24900" />
+
 
 ## Schematic
 
-<img width="4960" height="3507" alt="image" src="https://github.com/user-attachments/assets/7e4e99f0-ed35-4bf2-8211-25fb0a2f7006" />
+<img width="4960" height="3507" alt="image" src="https://github.com/user-attachments/assets/1b5095ff-b848-4116-8346-fd8d86f9ceb8" />
+
 
 ## BOM
 
-|Reference(s)|Qty            |Value/Description             |MFR         |MFR No.           |Unit Price GBP|Total Price GBP|Link                                                                                    |FIELD9             |FIELD10               |FIELD11        |
-|------------|---------------|------------------------------|------------|------------------|--------------|---------------|----------------------------------------------------------------------------------------|-------------------|----------------------|---------------|
-|~           |5 (2 assebeled)|PCB and Partial assebly       |JLCPCB      |~                 |~             |19.78          |https://jlcpcb.com/                                                                     |                   |                      |               |
-|U3          |1              |Seeed XIAO RP2040 with Headers|Raspberry Pi|102010428         |4.8           |4.8            |https://thepihut.com/products/seeed-xiao-rp2040                                         |                   |                      |               |
-|SW2-9       |8              |Cherry Mx Brown Swtich        |CHERRY      |MX1A-G1NW         |0.48          |4.32           |https://www.keyboardco.com/product/cherry-key-switch-module-brown-tactile-pcb-mount.asp |                   |                      |               |
-|SW1         |1              |Rotary Encoder                |Bourns      |PEC11R-4325F-S0012|1.87          |1.87           |https://uk.rs-online.com/web/p/mechanical-rotary-encoders/7377767                       |                   |                      |               |
-|~           |8              |Keycaps In Various Colours    |JYTECH      |JYT--1657         |0.15          |1.2            |https://www.alibaba.com/product-detail/Multi-color-XDA-Blank-Keycap-1_1601173995121.html|                   |                      |               |
-|J2-6        |5              |USB A Port                    |Molex       |67643-2911        |1.78          |8.87           |https://uk.rs-online.com/web/p/usb-connectors/9048200                                   |                   |                      |               |
-|            |               |                              |            |                  |              |               |                                                                                        |                   |                      |               |
-|            |               |                              |            |                  |              |               |                                                                                        |                   |Total Price USD approx|Total Price GBP|
-|            |               |                              |            |                  |              |               |                                                                                        |Items              |54.91                 |40.84          |
-|            |               |                              |            |                  |              |               |                                                                                        |Shipping (and fees)|30.92                 |23             |
-|            |               |                              |            |                  |              |               |                                                                                        |Final              |85.82                 |63.84          |
